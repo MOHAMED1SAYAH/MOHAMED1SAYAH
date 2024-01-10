@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dog Picture</title>
+</head>
+<body>
+  <h1>Check out this cute dog!</h1>
+  <img src="https://example.com/dog.jpg" alt="Dog Image">
+</body>
+</html>
+
